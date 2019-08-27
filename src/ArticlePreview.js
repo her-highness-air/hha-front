@@ -6,7 +6,7 @@ function ArticlePreview() {
     <div className="article-preview">
       <header className="article-preview-header">
         <p class="article-preview-para">
-            Something will go here.
+            Something will go here soon.
         </p>
 
       </header>
