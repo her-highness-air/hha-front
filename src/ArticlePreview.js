@@ -3,9 +3,9 @@ import './App.css';
 
 function ArticlePreview() {
   return (
-    <div className="article">
-      <header className="article-header">
-        <p class="article-para">
+    <div className="article-preview">
+      <header className="article-preview-header">
+        <p class="article-preview-para">
             Something will go here.
         </p>
 
