@@ -1,1 +1,1 @@
-React front end for [https://herhighnessair.com](herhighnessair.com)
+React front end for [herhighnessair.com](https://herhighnessair.com)
